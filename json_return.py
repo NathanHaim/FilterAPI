@@ -1,0 +1,5 @@
+
+jsonR = {
+    "Return":False,
+    "Message": ""
+}
